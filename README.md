@@ -1,4 +1,10 @@
-sovir - an eCommerce cross-platform app using React Native as the frontend and Node.js & MongoDB as the backend
+### Sovir App
+an eCommerce cross-platform app using React Native as the frontend and Node.js & MongoDB as the backend
+
+#### Demo
+
+<img src = "https://github.com/mstva/SovirApp/blob/main/sovir-slides/1.png" width ="400" /> <img src = "https://github.com/mstva/SovirApp/blob/main/sovir-slides/2.png" width ="400" /> <img src = "https://github.com/mstva/SovirApp/blob/main/sovir-slides/3.png" width ="400" /> 
+<img src = "https://github.com/mstva/SovirApp/blob/main/sovir-slides/4.png" width ="300" /> <img src = "https://github.com/mstva/SovirApp/blob/main/sovir-slides/5.png" width ="400" /> <img src = "https://github.com/mstva/SovirApp/blob/main/sovir-slides/6.png" width ="400" /> <img src = "https://github.com/mstva/SovirApp/blob/main/sovir-slides/7.png" width ="400" /> 
 
 #### Features of the app:
 - User Authentication with Email and Social Media Accounts
